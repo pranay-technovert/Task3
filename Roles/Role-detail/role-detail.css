@@ -112,6 +112,10 @@
     align-items: center;
     margin-left: auto;
 }
+#margin{
+    margin-left: -15px;
+}
+
 
 @media (max-width : 1080px){
 
